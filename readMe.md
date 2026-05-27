@@ -1,3 +1,3 @@
-## Travel Website
+## Travel Website Screenshot
 
-![screenshot](./images/screenshot.png)
+![Output](images/output.png)
