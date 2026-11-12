@@ -9,6 +9,7 @@ const swiper1 = new Swiper(".slider-1", {
     prevEl: ".swiper-prev",
   },
 });
+
 const swiper2 = new Swiper(".slider-2", {
   autoHeight: true,
   navigation: {
