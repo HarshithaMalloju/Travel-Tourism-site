@@ -5,7 +5,6 @@ const navList = document.querySelector(".nav-list");
 hamburger.addEventListener("click", () => {
   navList.classList.toggle("open");
 });
-
 // Discount Media
 const video = document.querySelector(".video");
 const button = document.querySelector(".video-control");
